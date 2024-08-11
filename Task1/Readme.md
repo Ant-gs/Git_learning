@@ -1,5 +1,5 @@
 # **Инструкция по работе с git**
-
+![git](https://codereviewvideos.com/blog/wp-content/uploads/2015/06/git-goodness.gif)
 ## Что же такое git
 
 &nbsp; Для начала разберемся что же такое "git" и для чего он нужен. <br>
